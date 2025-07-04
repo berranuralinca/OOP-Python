@@ -1,19 +1,20 @@
-# OOP-Python
-This is a car rental project.  Customers can rent cars or bikes.I explanied  how to use OOP with Python.
-Project discription:
-*Rent A Vehicle*
+# OOP - Python  
+# This is a car rental project.  
+# I explained how to use OOP with Python.
 
-- vehicles:
- rent a car:
- discount
- rent a bicycle
+# Project description:
+# *Rent A Vehicle*
 
--customer:
-request vehicle
-return vehicles
+# - vehicles:
+#     rent a car:
+#         discount
+#     rent a bicycle
 
--stock:
-display stock
-rent daily/hourly
-return vehicle
-"""
+# - customer:
+#     request vehicle
+#     return vehicles
+
+# - stock:
+#     display stock
+#     rent daily/hourly
+#     return vehicle
