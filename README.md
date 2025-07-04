@@ -1,4 +1,4 @@
 OOP - Python  
-This is a car rental project.  
+This is vehicle rental project.  
 I explained how to use OOP with Python.
 
